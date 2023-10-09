@@ -33,6 +33,7 @@ html {
 
   width: 100%;
   max-width: 1200px;
+  min-height: 500px;
   
   padding: 20px;
   border-bottom: 3px solid #808080;
