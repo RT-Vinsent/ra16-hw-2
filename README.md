@@ -1,4 +1,4 @@
-## **`!РЕШЕНО! Состояние компонентов.` ~~Все задачи~~**  
+## **`!РЕШЕНО! Состояние компонентов. Все задачи`**  
 ### Задачи разделены по компонентам в папке components
 
 ---
@@ -7,9 +7,9 @@
 
 ---
 
-[![Build status](https://ci.appveyor.com/api/projects/status/15brbkigk8qo4n4p?svg=true)](https://ci.appveyor.com/project/RT-Vinsent/ra16-hw-2)
+[![Build status](https://ci.appveyor.com/api/projects/status/6wst6uqh02ncmvsm?svg=true)](https://ci.appveyor.com/project/RT-Vinsent/ra16-hw-2)
 
-[![pages-build-deployment](https://github.com/RT-Vinsent/ra16-hw-2/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/RT-Vinsent/ra16-hw-1/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/RT-Vinsent/ra16-hw-2/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/RT-Vinsent/ra16-hw-2/actions/workflows/pages/pages-build-deployment)
 
 ---
 
