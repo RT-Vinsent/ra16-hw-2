@@ -6,6 +6,12 @@ import './App.css';
 function App() {
   return (
     <>
+      {/* шапка */}
+      <header className='header'>
+        <h1>Домашнее задание «Состояние компонентов»</h1>
+        <h2>Задачи расположены последовательно в столбик</h2>
+      </header>
+
       {/* Компонент класса Portfolio для задачи №1 */}
       <Portfolio />
 
@@ -16,7 +22,7 @@ function App() {
       <Dropdown/>
 
       {/* Просто подвал */}
-      <div className='footer'><p>Просто подвал</p></div>
+      <footer className='footer'><p>Просто подвал</p></footer>
     </>
   );
 }
