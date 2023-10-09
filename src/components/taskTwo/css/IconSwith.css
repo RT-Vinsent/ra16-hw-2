@@ -1,0 +1,17 @@
+/*****************************************
+*  Стиль IconSwith для задачи №2         *
+*  Используется компонентом IconSwitch   *
+*****************************************/
+
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+.material-icons {
+  color: #808080;
+  margin-left: 95%;
+  margin-top: 20px;
+}
+
+.material-icons:hover {
+  cursor: pointer;
+  color: #000000;
+}
